@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "outDir": "./dist",
+    "allowJs": true,
+    "module": "commonjs",
+    "target": "es2018",
+    "emitDecoratorMetadata": true
+  },
+  "include": ["./src/**/*", "src/models/.ts"]
+}
