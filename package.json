@@ -20,7 +20,7 @@
     "eslint-config-standard": "^14.1.0",
     "eslint-plugin-jest": "^23.0.5",
     "ioredis": "latest",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mysql2": "^2.1.0",
     "redlock": "^4.1.0",
     "reflect-metadata": "^0.1.13",
